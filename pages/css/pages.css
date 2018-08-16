@@ -37,3 +37,16 @@ img {
     padding: 1em;
     font-size: 12pt;
 }
+.scenario{
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+.scen{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1,5em;
+    color:hsla(342, 64%, 57%, 1);
+}
+.scenFoto{
+    width: 100px;
+    border-radius: 40%;
+}
